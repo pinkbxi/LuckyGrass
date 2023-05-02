@@ -1,0 +1,4 @@
+name: LuckyGrass
+version: '1.0.0'
+main: org.plugin.luckygrass.LuckyGrass
+api-version: 1.19
